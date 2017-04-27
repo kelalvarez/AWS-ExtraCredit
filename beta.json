@@ -1,6 +1,6 @@
 {
     "Parameters": {
         "SamMultipler": "1",
-        "OriginUrl": "http://serverless-app-643746111933-us-east-1-samfarm.s3-website-us-east-1.amazonaws.com"
+        "OriginUrl": "http://samfarm-s3bucket-1l9qmuagqc6r7.s3-website-us-east-1.amazonaws.com"
     }
 }
